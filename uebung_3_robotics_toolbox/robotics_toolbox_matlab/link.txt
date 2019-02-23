@@ -1,0 +1,18 @@
+***Link zu der Robotics Toolbox von Peter Corke***
+
+http://petercorke.com/wordpress/toolboxes/robotics-toolbox
+
+# Anmerkungen: 
+
+Das ist offenbar eine weit verbreitete Toolbox in Robotik. 
+
+Eine Online Dokumentation gibt es nicht, aber eine 400 Seitige PDF wo die befehle erklaert sind. 
+Die PDF ist im Ordner und kann auf der Seite von petercorke.com... aktuell heruntergeladen werden. 
+
+Es gibt ein Lehrbuch zu Grundlagen der Robotik, die Code-Beispiele mit der Toolbox baut.
+Das Buch ist gut bewertet von Stanford und wurde von Peter Corke selbst geschrieben.  
+https://www.springer.com/gp/book/9783319544120
+
+Nach einmal in Matlab mit Doppelklick anklicken installieren, ist die Toolbox in Matlab verfuegbar
+
+
